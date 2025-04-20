@@ -38,8 +38,7 @@ graph TB
   C2[Doppler_Images]
   C3[Data Appendix]
   D[OUTPUT]
-  D2[]
-  D3[]
+
 
   A --> A1
   A --> A2
@@ -52,8 +51,7 @@ graph TB
   C --> C2
   C --> C3
   A --> D
-  D --> D2
-  D --> D3
+
 
   %% Styling for main project folder (Dark Blue)
   style A fill:#003366,stroke:#001f3f,stroke-width:2px,color:white;
