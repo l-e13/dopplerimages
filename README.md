@@ -67,11 +67,8 @@ graph TB
   style B1 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
   style B2 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
   style B3 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
-  style B4 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
   style C1 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
   style C2 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
   style C3 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
-  style C4 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
-  style D2 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
-  style D3 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
+
 ```
