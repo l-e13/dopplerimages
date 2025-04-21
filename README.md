@@ -95,4 +95,10 @@ graph TB
    - open `EDA.ipynb`
    - upload `ocr_results.csv`
    - run script to produce EDA
-
+     
+5. **Analysis**
+   - navigate to **SCRIPTS** folder
+   - open `Analysis.ipynb`
+   - upload `ocr_results.csv`
+   - run script to produce 'cm_m_300_distances.csv', a file containing text sucessfully detected with units and the value 300 from the images
+   - navigate to the file 'Analysis Output.pdf' in the same folder to view a summary of the figures produced by the analysis
