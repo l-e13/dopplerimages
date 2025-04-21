@@ -72,3 +72,27 @@ graph TB
   style C3 fill:#ff9999,stroke:#8b0000,stroke-width:1px,color:black;
 
 ```
+
+## Reproduction Instructions
+
+1. **Set up Environment**
+    - install python
+    - install required libraries (listed above)
+  
+2. **Download Dataset**
+    - navigate to **DATA** folder
+    - download `Doppler_Images` folder containing 40 images
+    - store folder in Google Drive
+      
+3. **Text Extraction and Coordinates**
+   - navigate to **SCRIPTS** folder
+   - open `mass upload.ipynb`
+   - run script to preprocess iamges, extract text, and get coordinates on each image
+   - script will save text and coordinates in `ocr_results.csv`
+  
+4. **EDA**
+   - navigate to **SCRIPTS** folder
+   - open `EDA.ipynb`
+   - upload `ocr_results.csv`
+   - run script to produce EDA
+
